@@ -1,0 +1,12 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "EG1215AA")(type "KiCad")(uri "/Users/bhuvansh/Desktop/ble_kbd/Libraries/EG1215AA.kicad_sym")(options "")(descr ""))
+  (lib (name "EVQ-P7J01P")(type "KiCad")(uri "/Users/bhuvansh/Desktop/ble_kbd/Libraries/EVQ-P7J01P.kicad_sym")(options "")(descr ""))
+  (lib (name "Nice_Nano_V2")(type "KiCad")(uri "/Users/bhuvansh/Desktop/ble_kbd/Libraries/Nice_Nano_V2.kicad_sym")(options "")(descr ""))
+  (lib (name "ScottoKeebs")(type "KiCad")(uri "/Users/bhuvansh/Desktop/ble_kbd/Libraries/ScottoKeebs.kicad_sym")(options "")(descr ""))
+  (lib (name "Seeed_Studio_XIAO_Series")(type "KiCad")(uri "/Users/bhuvansh/Desktop/ble_kbd/Libraries/Seeed_Studio_XIAO_Series.kicad_sym")(options "")(descr ""))
+  (lib (name "SS12F23G5")(type "KiCad")(uri "/Users/bhuvansh/Desktop/ble_kbd/Libraries/SS12F23G5.kicad_sym")(options "")(descr ""))
+  (lib (name "SW_SIDE_MOUNT")(type "KiCad")(uri "/Users/bhuvansh/Desktop/ble_kbd/Libraries/SW_SIDE_MOUNT.kicad_sym")(options "")(descr ""))
+  (lib (name "436331045822")(type "KiCad")(uri "/Users/bhuvansh/Desktop/ble_kbd/Libraries/436331045822.kicad_sym")(options "")(descr ""))
+  (lib (name "MLL1200S")(type "KiCad")(uri "/Users/bhuvansh/Desktop/ble_kbd/Libraries/MLL1200S.kicad_sym")(options "")(descr ""))
+)

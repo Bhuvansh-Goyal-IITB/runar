@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "BLE_KBD")(type "KiCad")(uri "/Users/bhuvansh/Desktop/ble_kbd/Libraries")(options "")(descr ""))
+)
